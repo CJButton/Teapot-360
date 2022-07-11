@@ -1,0 +1,670 @@
+{
+  "teapotium": {
+    "width": 960,
+    "height": 720,
+    "name": "Teapotium",
+    "description": "A 360 model of multiple teapots melded into one",
+    "clockwise": false,
+    "frames": [
+      {
+        "uri": "/model/teapotium/opt-teapotium0000.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0000.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0001.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0001.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0002.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0002.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0003.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0003.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0004.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0004.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0005.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0005.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0006.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0006.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0007.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0007.svg",
+          "ids": [0]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0008.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0008.svg",
+          "ids": [0]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0009.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0009.svg",
+          "ids": [0]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0010.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0010.svg",
+          "ids": [0]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0011.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0011.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0012.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0012.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0013.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0013.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0014.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0014.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0015.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0015.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0016.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0016.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0017.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0017.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0018.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0018.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0019.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0019.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0020.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0020.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0021.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0021.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0022.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0022.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0023.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0023.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0024.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0024.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0025.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0025.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0026.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0026.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0027.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0027.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0028.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0028.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0029.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0029.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0030.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0030.svg",
+          "ids": [0, 1]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0031.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0031.svg",
+          "ids": [0, 1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0032.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0032.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0033.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0033.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0034.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0034.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0035.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0035.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0036.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0036.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0037.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0037.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0038.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0038.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0039.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0039.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0040.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0040.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0041.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0041.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0042.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0042.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0043.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0043.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0044.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0044.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0045.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0045.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0046.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0046.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0047.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0047.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0048.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0048.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0049.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0049.svg",
+          "ids": [1, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0050.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0050.svg",
+          "ids": [2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0051.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0051.svg",
+          "ids": [2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0052.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0052.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0053.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0053.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0054.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0054.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0055.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0055.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0056.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0056.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0057.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0057.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0058.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0058.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0059.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0059.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0060.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0060.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0061.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0061.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0062.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0062.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0063.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0063.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0064.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0064.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0065.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0065.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0066.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0066.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0067.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0067.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0068.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0068.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0069.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0069.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0070.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0070.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0071.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0071.svg",
+          "ids": [3, 2]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0072.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0072.svg",
+          "ids": [3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0073.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0073.svg",
+          "ids": [3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0074.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0074.svg",
+          "ids": [3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0075.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0075.svg",
+          "ids": [3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0076.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0076.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0077.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0077.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0078.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0078.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0079.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0079.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0080.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0080.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0081.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0081.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0082.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0082.svg",
+          "ids": [0]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0083.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0083.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0084.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0084.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0085.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0085.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0086.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0086.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0087.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0087.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0088.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0088.svg",
+          "ids": [0, 3, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0089.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0089.svg",
+          "ids": [0, 3]
+        }
+      },
+      {
+        "uri": "/model/teapotium/opt-teapotium0090.jpg",
+        "hotspots": {
+          "uri": "/hotspots/teapotium/teapotium0090.svg",
+          "ids": [0, 3]
+        }
+      }
+    ],
+    "hotspots": [
+      {
+        "id": 0,
+        "color": "#845EC2",
+        "link": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+      },
+      {
+        "id": 1,
+        "color": "#D65DB1",
+        "link": "https://zombo.com"
+      },
+      {
+        "id": 2,
+        "color": "#FF6F91",
+        "link": "https://www.youtube.com/watch?v=L_jWHffIx5E"
+      },
+      {
+        "id": 3,
+        "color": "#F9F871",
+        "link": "https://wikipedia.org"
+      }
+    ]
+  }
+}
